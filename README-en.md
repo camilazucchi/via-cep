@@ -1,5 +1,7 @@
 # Java Project: ViaCEP
-![Girl with a magnifying glass](/src/assets/find-zipcode.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/camilazucchi/ViaCEP/main/src/assets/find-zipcode.png" alt="Girl with a magnifying glass" width="400">
+</p>
 Don't speak English? Click <a href="https://github.com/camilazucchi/ViaCEP/blob/main/README.md">here</a> to view this page in English.
 
 The ViaCEP Project is a Java application that interacts with the public ViaCEP API to obtain detailed address information based on the ZIP code provided by the user. The project's goal is to learn about API consumption with Java.
