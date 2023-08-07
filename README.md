@@ -1,5 +1,7 @@
 # Java Project: ViaCEP
-![Garotinha com uma lupa](/src/assets/find-zipcode.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/camilazucchi/ViaCEP/main/src/assets/find-zipcode.png" alt="Girl with a magnifying glass" width="400">
+</p>
 Don't speak Portuguese? Click <a href="https://github.com/camilazucchi/ViaCEP/blob/main/README-en.md">here</a> to view this page in English.
 
 O Projeto ViaCEP é uma aplicação Java que interage com a API pública do ViaCEP para obter informações detalhadas de endereços com base no CEP fornecido pelo usuário. O objetivo do projeto é aprender sobre o consumo de API com Java.
